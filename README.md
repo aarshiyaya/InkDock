@@ -8,8 +8,6 @@ Built for **Megathon 2025**, where it won **3rd place (₹10,000)**!
 ## Overview
 
 **InkDock**, supports multi-user editing with live cursor tracking, chat, authentication, active user status indicators, rich text formatting, and media/table insertion.  
-Backend: Lightweight C server (Mongoose 6.18)  
-Frontend: Fast, modern HTML5/JS
 
 ---
 
