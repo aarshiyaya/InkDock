@@ -24,6 +24,7 @@ Frontend: Fast, modern HTML5/JS
 - Rich text formatting with media & table insertion  
 
 ---
+
 ## Tech Stack
 
 ### Backend
@@ -54,15 +55,18 @@ Frontend: Fast, modern HTML5/JS
 - Make
 
 ---
+
 ## File Structure
 
-InkDock/
-├── Makefile        # Build configuration for the C server
-├── README.md       # Project documentation
-├── index.html      # Frontend UI for the collaborative editor
-├── main.c          # Core server logic and application entry point
-├── mongoose.c      # Mongoose networking implementation
-└── mongoose.h      # Mongoose API definitions  
+``` 
+InkDock/  
+├── Makefile      # Build configuration for the C server
+├── README.md     # Project documentation
+├── index.html    # Frontend UI for the collaborative editor
+├── main.c        # Core server logic and application entry point
+├── mongoose.c    # Mongoose networking implementation
+└── mongoose.h    # Mongoose API definitions
+```
 
 ---
 
@@ -85,6 +89,7 @@ Visit [http://localhost:8000](http://localhost:8000) and log in as `alice`, `bob
 _Open multiple browsers to test collaboration features!_
 
 ---
+
 ## Credits & License
 
 - [Mongoose](https://github.com/cesanta/mongoose) for networking
