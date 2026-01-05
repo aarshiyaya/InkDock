@@ -77,7 +77,7 @@ InkDock/
 
 **Install & run:**
 ```sh
-git clone https://github.com/YOURUSERNAME/InkDock.git
+git clone https://github.com/aarshiyaya/InkDock.git
 cd InkDock
 make
 ./server
